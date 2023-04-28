@@ -65,7 +65,7 @@ If you find this repo useful for your research, please consider citing our paper
 @article{opt-vqa-with-qbang,
   title={Optimizing Variational Quantum Algorithms with qBANG: A Hybrid Approach to Tackle Flat Energy Landscapes},
   author={Fitzek, David and Jonsson, Robert S. and Dobrautz, Werner and Schäfer, Christian},
-  journal={arXiv preprint arXiv:XXXX.XXXX},
+  journal={arXiv preprint arXiv:2304.13882},
   year={2023},
 }
 ```
